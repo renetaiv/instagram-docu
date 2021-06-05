@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_post_a_photo_on_instagram">
+    <title>How to Post a Photo on Instagram</title>
+    <shortdesc>Here you will learn how to post a photo on Instagram.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_sdc_1t5_vpb">Open your Instagram account.</prereq>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd> Tap <image
+                        href="https://static.xx.fbcdn.net/assets/?revision=495565465093154&amp;name=instagram-newpostupload-shared&amp;density=1"
+                        id="image_lql_d55_vpb"/> at the top, then scroll to <b>Post</b> at the
+                    bottom:</cmd>
+                <info>
+                    <ul id="ul_x33_kz5_vpb">
+                        <li>To upload a photo from your phone's library, select the photo you'd like
+                            to share.</li>
+                        <li>To take a new photo, tap <image
+                                href="https://static.xx.fbcdn.net/assets/?revision=495565465093154&amp;name=ig-camera-shared&amp;density=1"
+                                id="image_cp4_f55_vpb"/> above your phone's library. You can tap
+                                <image
+                                href="https://static.xx.fbcdn.net/assets/?revision=495565465093154&amp;name=fb-rotatecamera-shared&amp;density=1"
+                                id="image_dp4_f55_vpb"/> to switch between front and rear-facing
+                            cameras and <image
+                                href="https://static.xx.fbcdn.net/assets/?revision=495565465093154&amp;name=instagram-flashnew-shared&amp;density=1"
+                                id="image_ep4_f55_vpb"/> to adjust flash.</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>Tap <b>Next</b> (iPhone) or <image
+                        href="https://static.xx.fbcdn.net/assets/?revision=495565465093154&amp;name=instagram-bluearrow-android&amp;density=1"
+                        id="image_kqv_g55_vpb"/> (Android), then add a caption or your
+                    location.</cmd>
+            </step>
+            <step>
+                <cmd>When you're done, tap <b>Share</b> (iPhone) or <image
+                        href="https://static.xx.fbcdn.net/assets/?revision=495565465093154&amp;name=instagram-bluecheck-android&amp;density=1"
+                        id="image_ubl_h55_vpb"/> (Android).</cmd>
+            </step>
+        </steps>
+        <result id="result_lrs_j55_vpb">After following these steps, you can easily post a
+            photo.</result>
+    </taskbody>
+</task>

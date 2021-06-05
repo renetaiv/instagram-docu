@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_create_an_instagram_account">
+    <title>How to Create an Instagram account</title>
+    <shortdesc>Here you will learn how to create an Instagram account.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_aw5_rq5_vpb">Download Instagram app from your phone.</prereq>
+        <context>
+            <p>Follow the next steps to create an Instagram account:: </p>
+        </context>
+        <steps>
+            <step>
+                <cmd> Open the app once it is installed on your phone.</cmd>
+            </step>
+            <step>
+                <cmd>Tap the <b>Create New Account</b> button. You can either use your phone number
+                    or your email address.</cmd>
+            </step>
+            <step>
+                <cmd>Enter a username and a password. </cmd>
+                <info>Then, fill out all your personal information. If on the other hand, you have
+                    decided to create a new profile from your Facebook account, you will have to log
+                    in first.</info>
+            </step>
+        </steps>
+        <result id="result_sbp_sr5_vpb">After following these steps, you can dive into the Instagram
+            functionalities, such as following someone.</result>
+    </taskbody>
+</task>

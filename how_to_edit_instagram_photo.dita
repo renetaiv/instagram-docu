@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_edit_instagram_photo">
+    <title>How to Edit Instagram Photo</title>
+    <shortdesc>Here you will learn how to edit Instagram photo.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_gb4_3v5_vpb">Select a photo that your want to edit.</prereq>
+        <context>
+            <p>How to edit Instagram photos in 6 easy steps:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Start with a quality shot.</cmd>
+                <info>
+                    <p>The ultimate shortcut to crafting a great Instagram post is to begin with a
+                        quality photo. Try shooting in natural light, and take a bunch of shots.
+                        That way you have choices.</p>
+                    <p/>
+                </info>
+            </step>
+            <step>
+                <cmd>Choose your filter.</cmd>
+                <info>
+                    <p>Filters are like ice cream flavors: tastes vary by person, but some are more
+                        popular than others. And when it comes to figuring out your own preferences,
+                        the tried-and-true method is to sample widely.<image
+                            href="https://mk0hootsuiteblof6bud.kinstacdn.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-20-at-4.48.42-PM.png"
+                            id="image_msr_bw5_vpb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Adjust the Lux setting by clicking on the sun icon above your photo.</cmd>
+                <info>
+                    <p>Lux adjusts the contrast and exposure of photos, adding dimension and making
+                        the features of the photo pop. It’s sort of like contour, but for your
+                        pictures instead of your face. This can be particularly helpful for
+                        enhancing underexposed photos.<image
+                            href="https://mk0hootsuiteblof6bud.kinstacdn.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-20-at-5.00.25-PM.png"
+                            id="image_q5l_ty5_vpb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Tap the <b>edit</b> button on the bottom-right to adjust other settings.<image
+                        href="https://mk0hootsuiteblof6bud.kinstacdn.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-20-at-4.57.39-PM.png"
+                        id="image_qly_lw5_vpb"/></cmd>
+            </step>
+        </steps>
+        <result id="result_otq_mw5_vpb">As a result, your photo is with better colors.</result>
+    </taskbody>
+</task>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_instagram">
+    <title>What is Instagram</title>
+    <shortdesc>Here you will learn what is Instagram.</shortdesc>
+    <conbody>
+        <p>Instagram is a free social media platform for sharing photos and videos. Every time you
+            open the app, you'll be met with a main feed of recent posts from the accounts you
+            follow. At the bottom is a menu bar, which is accessible anywhere you are in the
+            app.</p>
+        <p><image
+                href="https://ichef.bbci.co.uk/news/976/cpsprodpb/13E15/production/_117592418_b4287813-3cde-4e2d-a1f1-93244cc6429e.jpg"
+                id="image_u3b_pn5_vpb"/></p>
+    </conbody>
+</concept>
