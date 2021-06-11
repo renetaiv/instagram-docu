@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Features of Instagram</title>
+    <topicref href="introduction.dita"/>
+    <topicref href="feature_1_instagram_stories.dita"/>
+    <topicref href="feature_2_instagram_live.dita"/>
+    <topicref href="feature_3_igtv.dita"/>
+    <topicref href="feature_4_instagram_shopping.dita"/>
+    <topicref href="feature_5_instagram_reels.dita"/>
+    <topicref href="feature_6_video_recording_up_to_15_seconds.dita"/>
+    <topicref href="feature_7_unlimited_story_addition.dita"/>
+</map>

@@ -2,7 +2,9 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>End-User Guide for the Instagram Application</title>
-    <topicref href="what_is_instagram.dita"/>
+    <topicref href="what_is_instagram.dita">
+        <topicref href="dive_deep_into_the_instagram.dita"/>
+    </topicref>
     <topicref href="what_are_the_features_of_instagram.dita"/>
     <topicref href="how_to_create_an_instagram_account.dita"/>
     <topicref href="how_to_post_a_photo_on_instagram.dita"/>
