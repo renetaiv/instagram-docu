@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="introduction">
+    <title>Introduction</title>
+    <body>
+        <p>
+            <imagemap id="imagemap_azq_2tj_xpb">
+                <image href="../../Downloads/Features.jpg" id="image_fzt_vsj_xpb"/>
+                <area>
+                    <shape>rect</shape>
+                    <coords>3, 105, 373, 307</coords>
+                    <xref href="feature_1_instagram_stories.dita" format="dita">Click here for more
+                        details about Feature #1!</xref>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>374, 105, 858, 307</coords>
+                    <xref href="feature_2_instagram_live.dita" format="dita">Click here for more
+                        details about Feature #2!</xref>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>-2, 308, 473, 463</coords>
+                    <xref href="feature_3_igtv.dita" format="dita">Click here for more details about
+                        Feature #3!</xref>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>473, 308, 861, 533</coords>
+                    <xref href="feature_4_instagram_shopping.dita" format="dita">Click here for more
+                        details about Feature #4!</xref>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>-2, 465, 471, 617</coords>
+                    <xref href="feature_5_instagram_reels.dita" format="dita">Click here for more
+                        details about Feature #5!</xref>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>0, 617, 471, 766</coords>
+                    <xref href="feature_6_video_recording_up_to_15_seconds.dita" format="dita">Click
+                        here for more details about Feature #6!</xref>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>471, 531, 861, 765</coords>
+                    <xref href="feature_7_unlimited_story_addition.dita" format="dita">Click here
+                        for more details about Feature #7!</xref>
+                </area>
+            </imagemap>
+        </p>
+    </body>
+</topic>
