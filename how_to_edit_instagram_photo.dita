@@ -4,7 +4,9 @@
     <title>How to Edit Instagram Photo</title>
     <shortdesc>Here you will learn how to edit Instagram photo.</shortdesc>
     <taskbody>
-        <prereq id="prereq_gb4_3v5_vpb">Select a photo that your want to edit.</prereq>
+        <prereq id="prereq_gb4_3v5_vpb">Select a photo that your want to edit. If you don't know how
+            to upload a photo see the first step of <xref
+                href="how_to_post_a_photo_on_instagram.dita"/></prereq>
         <context>
             <p>How to edit Instagram photos in 6 easy steps:</p>
         </context>
